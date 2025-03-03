@@ -1,0 +1,5 @@
+#
+# fotocopia.png: 4bpp bitmap, no pal
+#
+
+-gb -gB8 -m -mLf
